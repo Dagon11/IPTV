@@ -35,14 +35,12 @@ http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001128/index.m3u8
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001195/index.m3u8
 #EXTINF:-1tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="上海频道" ,快乐垂钓
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001235/index.m3u8
-#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://live.fanmingming.com/tv/茶频道.png" group-title="上海频道",茶频道
+#EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="上海频道",茶友频道
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001234/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="上海频道",金鹰纪实
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001230/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="上海频道",金鹰卡通
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001460/index.m3u8
-#EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://live.fanmingming.com/tv/中国教育4.png" group-title="上海频道",中国教育4
-http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001348/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="上海频道",动漫秀场
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001196/index.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="上海频道",游戏风云
@@ -113,8 +111,6 @@ http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001032/index.m3u8
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001030/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视频道",东南卫视
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001201/index.m3u8
-#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视频道",CETV-1
-http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001020/index.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视频道",四川卫视
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001130/index.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
@@ -137,7 +133,11 @@ http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001450/index.m3u8
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001225/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视频道",云南卫视
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001223/index.m3u8
-#EXTINF:-1 tvg-name="直播室" tvg-logo="https://live.fanmingming.com/tv/直播室.png" group-title="卫视频道",直播室101
+#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视频道",CETV-1
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001020/index.m3u8
+#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视频道",CETV-4
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001348/index.m3u8
+#EXTINF:-1 tvg-name="直播室" tvg-logo="https://live.fanmingming.com/tv/直播室.png" group-title="直播频道",直播室101
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001148/index.m3u8
 #EXTINF:-1 tvg-name="直播室" tvg-logo="https://live.fanmingming.com/tv/直播室.png" group-title="卫视频道",直播室102
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001149/index.m3u8
